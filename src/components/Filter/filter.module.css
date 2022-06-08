@@ -1,0 +1,10 @@
+.filter{
+    font-size: 21px;
+    margin-left: 20px;
+}
+
+.filterInput{
+    margin-bottom: 25px;
+    margin-left: 10px;
+    height: 25px;
+}

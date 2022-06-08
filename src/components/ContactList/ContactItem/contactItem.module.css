@@ -1,0 +1,15 @@
+.item{
+    margin: 15px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    padding: 6px;
+    border-radius: 7px;
+}
+
+.btn:hover,
+.btn:focus{
+    color: #fff;
+    background-color: red;
+}
